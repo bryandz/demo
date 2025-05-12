@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This is a demo.
+This is a demo. 
 
 ## Getting Started
 
