@@ -4,6 +4,8 @@ A new Flutter project.
 
 This is a demo.
 
+This is a second demo.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
